@@ -21,8 +21,8 @@ git clone https://github.com/Synthxyl704/ARX-compiler
 [Linux] | Terminal guide:
 ```
 -> cd <directory of storage>
--> gcc isomain.c -o isomain
--> ./isomain ./isoreadfile.arx 
+-> gcc src/isomain.c -o isomain
+-> ./isomain examples/isoreadfile.arx 
 ```
 # Syntax manual:
 ## Current language documentation for reference
